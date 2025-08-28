@@ -45,3 +45,7 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Shivaneshkumar22?theme=dark&font=IBM%20Plex%20Mono)](https://leetcode.com/u/Shivaneshkumar22/)
 
+### Geeksforgeeks Stats
+
+
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/shivaneshihzk)](https://www.geeksforgeeks.org/user/shivaneshihzk/)
