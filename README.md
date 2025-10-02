@@ -1,6 +1,6 @@
 ## 👋 Hey there! I'm Sivanesan K
 
-💻 **Freelance Full-Stack Developer** | 🔍 AI Explorer | ⚙️ DSA Learner  
+💻 **Freelance Software Engineer** | 🔍 AI Explorer | ⚙️ DSA Learner  
 <img align="right" width="370" height="270" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" />
 
 - 🔭 Here's my [Portfolio](https://sivanesank-portfolio.vercel.app)
